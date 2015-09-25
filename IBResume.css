@@ -1,0 +1,47 @@
+img{
+	border: 2px solid white;
+	position: absolute;
+	top: 20px;
+	right: 0px;
+	width: 250px;
+	height: 250px;
+	transform: rotate(350deg);
+	-webkit-transform: rotate (350deg);
+	-ms-transform: rotate(350deg);
+}
+em{
+	padding-right: 50px;
+}
+h1{
+	color:#c83759; 
+	font-family: Courier;
+}
+#TEducation{
+	position: relative;
+	right: 40px;
+}
+#info{
+	border-right: 2px #c83759 solid;
+	padding-right :60px;
+
+}
+
+#stuff{
+	padding-left: 30px;
+}
+#bioG{
+	text-align: left;
+	width: 650px;
+	margin-left: 30px;
+}
+
+#contact{
+	margin-left: 30px;
+
+}
+
+h1{
+	border-bottom: 2px #000000 solid;
+
+
+}
